@@ -1,0 +1,10 @@
+# pseudocode file
+
+PROGRAM VaccRecoSys
+
+BEGIN
+
+    DECLARE ...
+
+END
+
