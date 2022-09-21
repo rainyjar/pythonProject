@@ -12,3 +12,6 @@ print("this is a test ", number)
 
 number2 = "dos"
 print(number2)
+
+testnumber = "123"
+print(testnumber)
