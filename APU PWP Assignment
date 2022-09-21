@@ -15,3 +15,6 @@ print(number2)
 
 testnumber = "123"
 print(testnumber)
+
+anothertest = "this is another test"
+print(anothertest)
