@@ -9,3 +9,6 @@ for i in testlist:
 # lalala
 number = 4
 print("this is a test ", number)
+
+number2 = "dos"
+print(number2)
