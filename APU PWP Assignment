@@ -7,3 +7,5 @@ for i in testlist:
   print(testlist[0])
   
 # lalala
+number = 4
+print("this is a test ", number)
