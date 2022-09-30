@@ -1,0 +1,9 @@
+VC1, AF, Kelly Chen, 011025-12-4302, 21, kelly73@gmail.com, 01234415423, AF4302
+VC1, BV, Lim Cheng Hao, 030911-15-3411, 19,	chenghao03@gmail.com, 01348031031, BV3411
+VC2, AF, John Micheal, 450131-04-0137, 77, michealsab@gmail.com, 01123412341, AF0137
+VC1, EC, Muhammad bin Hasfran, 570907-14-5325, 65, hasfranmuh@gmail.com, 01234985730, EC5325
+VC2, CZ, Yashvini A/P Gopal, 50521-73-2418,	17,	gyashvini9@gmail.com, 01112638026, CZ2418
+VC2, EC, Chan Jia Hui, 031104-14-4136, 19, cjh1104@gmail.com, 01023659330, EC4136
+VC1, BV, Muhammad Hassan, 000522-97-1249, 22, muhhammadhas1@gmail.com, 0198768432, BV1249, Low blood pressure, A, 78, 179
+VC1, DM, Ho Qian Yi, 890715-23-7986, 33, qianyiho@gmail.com, 0187964531, DM7986, , , ,
+VC2, CZ, Norainah binti Safryna, 100926-14-7838, 12, norainahsafryna@gmail.com, 011789465, CZ7838, Asthma , B+, 44, 144
